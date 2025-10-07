@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test File.
+=======
+Test File 2
+>>>>>>> parent of ccb2fef (updated)
